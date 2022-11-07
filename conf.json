@@ -1,0 +1,7 @@
+{
+	"endpoint":"https://api.bybit.com", 
+    "api_key":"TU API KEY",
+    "api_secret":"TU API KEY SECRETA",
+    "startTime": "2022-11-3 - 12:00:00.000 PM",
+    "endTime": "2022-11-6 - 12:00:00.000 PM"
+}
